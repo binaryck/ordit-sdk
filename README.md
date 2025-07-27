@@ -1,3 +1,5 @@
+This is a fork of ordzaar/ordit-sdk that supports React 19
+
 [![CI](https://github.com/ordzaar/ordit-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/ordzaar/ordit-sdk/actions/workflows/ci.yml)
 
 # Ordit
